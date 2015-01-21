@@ -13,7 +13,7 @@
 	var Yoffset = 0;
 
 	var img = new Image();
-	img.src = "./images/Graph_plattegrond.jpg";
+	img.src = "./images/Graph_plattegrond_big.jpg";
 	img.onload = function() {
 		background.drawImage(img, 0, 0, 3075, 1500);
 	};
