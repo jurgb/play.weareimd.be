@@ -88,6 +88,17 @@ h3
     color: #5B7782;
 }
 
+.gameframe
+{
+    padding-top: 30px;
+}
+
+.controls
+{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
 /*BUBBLE CODE*/
 .bubble 
 {
