@@ -128,3 +128,23 @@ z-index: 0;
 left: -23px;
 top: 71px;
 }
+
+.nav
+{
+    margin-top: 5px;  
+    margin-bottom: 5px;
+}
+.nav-pills li a
+{
+    color: #D5582B; 
+}
+.nav-pills li a:hover,
+.nav-pills li.active a:hover
+{
+    background-color: #d5582b;
+    color: #fff;
+}
+.nav-pills li.active a
+{
+    background-color: #d5582b;   
+}
