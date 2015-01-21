@@ -68,6 +68,26 @@ h3
     padding-bottom: 15px;
 }
 
+.content-color img
+{
+    border: 3px solid #722E1C;
+    padding: 0;
+}
+
+.footer
+{
+    background-color: #000;
+    color: #fff;
+}
+
+.footer a:link,
+.footer a:visited,
+.footer a:hover,
+.footer a:active
+{
+    color: #5B7782;
+}
+
 /*BUBBLE CODE*/
 .bubble 
 {
